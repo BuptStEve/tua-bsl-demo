@@ -8,8 +8,8 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "github-fork-ribbon-css": "0.2.1",
-    "tua-body-scroll-lock": "0.1.0"
+    "github-fork-ribbon-css": "0.2.3",
+    "tua-body-scroll-lock": "0.3.1"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
